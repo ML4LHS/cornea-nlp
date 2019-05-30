@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-The repository contains the source code to reproduce the results of the paper " ". The data used for tuning the systems functionalities and the parameters have been redacted complying to the HIPAA requirements.
+The repository provides the source code to reproduce the results of the paper " ". The data used for tuning the systems functionalities and the parameters have been redacted complying to the HIPAA requirements.
 
 "One paragraph explaination about the project"
 
@@ -23,8 +23,8 @@ The project has a series of well defined stages in the pipeline.To reproduce,you
 
 **Example 1**
 
-Run the measure_size function the generic function to extract the maximum defect and infiltrate size measure from the corneal examination results.The corneal examination result sentence used for the experiment is provided in the example folder.
-```
+Run the measure_size function the generic function to extract the maximum defect and infiltrate size measure from the corneal examination results.The corneal examination result sentence used for the experiment is provided in the example file.
+``` python
 def measure_size(sents,re_float=re_float, rgx=[ed_rgx,inf_rgx]):
     '''
         input:
@@ -65,9 +65,9 @@ measure(<Corneal Examination report sentence>,<Regular expression numerical case
 
 
 **Example 2**
-Run the function to extract the maximum defect measure from the corneal examination report using the measure_max function which retrieves "defect" or "infiltrate" measure independently. The experiment was conducted on the corneal examination results provided in the example folder.
+Run the function to extract the maximum defect measure from the corneal examination report using the measure_max function which retrieves "defect" or "infiltrate" measure independently. The experiment was conducted on the corneal examination results provided in the example file.
 
-```
+```python
 def measure_max(sents, kwd, rgx,re_float=re_float):
     '''
         input:
