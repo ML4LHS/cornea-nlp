@@ -6,6 +6,15 @@ The repository contains the source code to reproduce the results of the paper " 
 
 "One paragraph explaination about the paper is needed"
 
+## Overview
+
+The project has multiple entry points.You will have to:
+
+* **Clean** the source data to remove incorrect,inaccurate,irrelevant parts of the data.
+* **Expand** the Abbreviations.
+* **Correct** the misspellled words in the sentences.
+* **Represent** the words in the appropriate format.
+
 ## Usage --Example
 
 
