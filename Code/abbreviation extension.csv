@@ -1,0 +1,182 @@
+,abbrev.,Extended
+1,epi,epithelial
+9,bcl,bandage contact lens
+10,nv,neovascularization
+12,spk,superficial punctate keratitis
+15,kp,keratic precipitates
+16,pee,punctate epithelial erosions
+18,pkp,penetrating keratoplasty
+30,endo,endothelium
+31,wbc,white blood cells
+36,ghj,graft host junction
+39,ant,anterior
+40,inf,inferior
+46,tr,trace
+57,rk,radial keratotomy
+58,dsaek,descemet stripping automated endothelial Keratoplasty
+59,abmd,anterior basement membrane dystrophy
+61,vxh,vertical x horizontal
+64,wbcs,white blood cells
+74,scl,soft contact lens
+76,pk,penetrating keratoplasty
+83,cl,contact lens
+85,sup,superior
+87,neo,neovascularization
+89,vert,vertical  
+91,horiz,horizontal
+100,kpro,boston keratoprosthesis
+104,ac,anterior chamber
+107,st,superior temporal
+109,temp,temporal
+111,pic,picture
+114,dm,descemet membrane
+115,fb,foreign body
+121,dlk,diffuse lamellar keratitis
+125,sn,superonasal octant
+133,pas,peripheral anterior synechiae
+135,mmh,mm horizontal
+139,mdf,map-dot-fingerprint dystrophy
+140,irreg,irregular
+142,alk,anterior lamellar keratoplasty
+144,sig,significant
+147,uvea,uveal
+151,conj,conjunctivalization
+153,sl,slightly
+161,ebmd,epithelial basement membrane dystrophy
+166,lg,keratic precipitate
+167,tm,trabecular meshwork
+168,esp,especially
+175,rks,radial keratotomy
+185,gh,graft host
+191,ik,interstitial keratitis
+205,ak,astigmatic keratotomy
+212,submm,sub mm
+231,rgp,rigid gas permeable
+234,pinpt,pinpoint
+244,nafl,instillation of sodium fluorescein
+251,iol,Intraocular lenses
+253,dalk,deep anterior lamellar keratoplasty
+256,hxv,horizontal x vertical
+257,croc,crocodile
+260,ghjx,graft host junction
+269,os,left eye
+276,assd,assorted
+286,od,right eye
+291,lscd,limbal stem cell deficiency
+295,deg,degree
+297,amt,amount
+312,dfs,diffuse  
+315,mmw,mm width
+317,rxn,reaction
+321,bscl,bandage soft contact lens
+323,perf,perforation 
+327,desc,descemet
+335,dmek,descemet membrane endothelial keratoplasty
+336,pt,patient
+342,fl,fluorescein
+360,vmm,vertical mm
+368,knv,corneal neovascularization
+369,puk,peripheral ulcerative keratits
+370,edmea,edema
+372,vis,visual
+379,pmns,polymorphonuclear leukocytes
+382,lg,lymphangiogenesis
+388,prev,previous
+399,mmx,mm x
+418,ptery,pterygium
+420,voigt,vogt
+421,kcn,keratoconus
+424,thru,through
+436,ted,thyroid eye disease
+441,horz,horizontal
+451,hsv,herpes_simplex virus
+480,ppmd,posterior polymorphous corneal dystrophy
+500,ambd,anterior basement membrane dystrophy
+503,dseak,descemet stripping automated endothelial keratoplasty
+520,irr,irregular
+521,flim,film
+523,rpg,rigid gas permeable
+531,sk,superficial keratectom
+548,rbcs,red blood cells
+556,tfbut,tear film breakup time
+562,ick,infectious crystalline keratopathy
+598,pco,posterior capsule opacification
+642,hr,hour
+663,hmm,horizontal mm
+676,sps,superficial punctuate staining
+703,bk,bullous keratopathy
+710,dsek,descemet stripping endothelial keratoplasty
+714,rbc,red blood cells
+1000,epidefect,epithelial defect
+1002,neovasc,neovascularization
+1006,dfolds,descemet folds
+1006,dfold,descemet fold
+1007,d-folds,descemet folds
+1009,d-fold,descemet fold
+1011,amt,amount
+1012,ed ,edema
+1013,endot,endothelium
+1014,endoth,endothelium
+1015,infil,infiltrate
+1016,infilt,infiltrate
+1017,mce,mammalian corneal endothelium
+1018,pinpt,pinpoint
+1039,plaqu,plaque
+1019,plaq,plaque
+1020,rb,red blood
+1021,sei,seidel
+1022,seis,subepithelial corneal infiltrates
+1023,tkp,temporary keratoprosthesis
+1024,ts,temporal corneal stiffness
+1025,ctl,contact lens
+1027,appx,approximate
+1028,aprox,approximate
+1029,amg,amniotic membrane transplant
+1030,mmv,mm vertical
+1031,wmm,width  mm
+1032,epith,epithelial
+1033,h,horizontal
+1034,w,width
+1035,v,vertical  
+1036,inflam,inflammation
+1037,inflamm,inflammation
+1038,kps,keratic precipitates
+1040,sxs,symptoms
+1041,subepi,subepithelial
+1042,kpo,boston keratoprosthesis
+1043,promi,prominent
+1044,k,keratopathy
+1045,cent,central
+1046,endopigmentation,endothelium pigmentation
+1047,ep,epithelial
+1048,fluoro,fluorescein
+1049,gpcl,contact lenses for gas permeable
+1050,ghjxn,graft host junction
+1051,jx,junction
+1052,max,maximal
+1053,tbut,tear break up time
+1054,rbut,rapid break up time
+1055,rtbut,rapid tear break up time
+1056,appox,approximate
+1057,approx,approximate
+1058,apprx,approximate
+1059,pig,pigment
+1050,neg,negtive
+1051,ks,keratotomy
+1052,d,descemet
+1053,assoc,associated
+1054,dmfs,descemet membrane folds
+1055,dmf,descemet membrane fold
+1056,embd,epithelial basement membrane dystrophy
+1057,jxn,junction
+1058,lkp,lamellar keratoplasty
+1059,neovas,neovascularization
+1060,pbk,pseudophakic bullous keratopathy
+1061,pek,punctate epithelial keratitis 
+1062,rpm,retro-prosthetic membranes
+1063,rtfbut,rapid tear film break up time 
+1064,sx,symptoms
+1065,tf,tear film
+1066,vasc,vascularization
+1067,wnl,within normal limits
+1078,suptemp,superotemporal
